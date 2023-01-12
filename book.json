@@ -9,7 +9,7 @@
 		"expandable-chapters-small",
 		"prism", 
 		"-highlight",
-		"lunr", 
+		"-lunr", 
 		"-search", 
 		"search-pro",
 		"splitter"

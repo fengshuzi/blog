@@ -3,7 +3,6 @@
 	"plugins" : [
 		"expandable-chapters", 
 		"github-buttons",
-		"editlink",
 		"copy-code-button",
 		"page-footer-ex",
 		"anchor-navigation-ex",

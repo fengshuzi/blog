@@ -1,0 +1,34 @@
+{
+	"title": "Summary",
+	"plugins" : [
+		"expandable-chapters", 
+		"github-buttons",
+		"editlink",
+		"copy-code-button",
+		"page-footer-ex",
+		"anchor-navigation-ex",
+		"expandable-chapters-small",
+		"prism", 
+		"-highlight",
+		"lunr", 
+		"-search", 
+		"search-pro",
+		"splitter"
+	],
+	"pluginsConfig": {
+		"github-buttons": {
+			"buttons": [{
+				"user": "fengshuzi",
+				"repo": "blog",
+				"type": "star",
+				"size": "small"
+			}]
+		},	
+		"prism": {
+			"css": ["prismjs/themes/prism-solarizedlight.css"],
+			"lang": {"flow": "typescript"}
+		}
+		
+	},
+	"ignores" : ["_book", "node_modules", "CNAME"]
+}
